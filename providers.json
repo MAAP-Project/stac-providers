@@ -1,0 +1,131 @@
+[
+  {
+    "name": "ASF",
+    "description": "Alaska Satellite Facility",
+    "url": "https://www.asf.alaska.edu/"
+  },
+  {
+    "name": "DE/DLR",
+    "description": "German Aerospace Center (DLR)",
+    "url": "https://www.dlr.de"
+  },
+  {
+    "name": "DOD/NGA",
+    "description": "National Geospatial-Intelligence Agency, U. S. Department of Defense",
+    "url": "https://www.nga.mil/Pages/Default.aspx"
+  },
+  {
+    "name": "DOI/USGS/EROS",
+    "description": "Earth Resources Observation and Science Center, U.S. Geological Survey, U.S. Department of the Interior",
+    "url": "https://www.usgs.gov/centers/eros"
+  },
+  {
+    "name": "ESA/CCI",
+    "description": "Climate Change Initiative, European Space Agency",
+    "url": "https://climate.esa.int/"
+  },
+  {
+    "name": "ESA/ESRIN",
+    "description": "ESRIN Earth Observation, European Space Agency",
+    "url": "https://www.esa.int/About_Us/ESRIN/About_Earth_Observation"
+  },
+  {
+    "name": "GMW",
+    "description": "Global Mangrove Watch",
+    "url": "https://www.globalmangrovewatch.org/"
+  },
+  {
+    "name": "INFONA",
+    "description": "Instituto Forestal Nacional, San Lorenzo, Paraguay",
+    "url": "https://infona.gov.py/"
+  },
+  {
+    "name": "IT/ASI",
+    "description": "Agenzia Spaziale Italiana",
+    "url": "https://www.asi.it/"
+  },
+  {
+    "name": "JP/JAXA/EORC",
+    "description": "Earth Observation Research Center, Japan Aerospace Exploration Agency, Japan",
+    "url": "http://www.eorc.jaxa.jp/en/index.html"
+  },
+  {
+    "name": "LEICESTER-U/ASTRO",
+    "description": "School of Physics and Astronomy, University of Leicester",
+    "url": "http://www2.le.ac.uk/departments/geography"
+  },
+  {
+    "name": "LP DAAC",
+    "description": "Land Processes Distributed Active Archive Center",
+    "url": "https://www.earthdata.nasa.gov/centers/lp-daac"
+  },
+  {
+    "name": "NASA/ABoVE",
+    "description": "Arctic Boreal Vulnerability Experiment",
+    "url": "https://above.nasa.gov/"
+  },
+  {
+    "name": "NASA/GSFC",
+    "description": "Goddard Space Flight Center, NASA",
+    "url": "https://gsfc.nasa.gov"
+  },
+  {
+    "name": "NASA/GSFC/GEDI",
+    "description": "Global Ecosystem Dynamics Investigation, Goddard Space Flight Center, NASA",
+    "url": "https://science.nasa.gov/mission/gedi/"
+  },
+  {
+    "name": "NASA/JPL",
+    "description": "Jet Propulsion Laboratory, NASA",
+    "url": "https://www.jpl.nasa.gov/"
+  },
+  {
+    "name": "NASA/JPL-Caltech",
+    "url": "https://www.jpl.nasa.gov/caltechjpl-privacy-policies-and-important-notices"
+  },
+  {
+    "name": "NASA/JPL/SRTM",
+    "description": "Shuttle Radar Topography Mission Project Office, Jet Propulsion Laboratory, NASA",
+    "url": "https://eospso.nasa.gov/missions/shuttle-radar-topography-mission"
+  },
+  {
+    "name": "NASA/MAAP",
+    "description": "The ESA-NASA Multi-Mission Algorithm and Analysis Platform",
+    "url": "https://maap-project.org"
+  },
+  {
+    "name": "ORNL_DAAC",
+    "description": "THE OAK RIDGE NATIONAL LABORATORY (ORNL) DISTRIBUTED ACTIVE ARCHIVE CENTER (DAAC)",
+    "url": "https://daac.ornl.gov/"
+  },
+  {
+    "name": "UCLouvain",
+    "description": "Université Catholique de Louvain",
+    "url": "https://www.uclouvain.be/"
+  },
+  {
+    "name": "UK/NERC/NCEO",
+    "description": "National Centre for Earth Observation",
+    "url": "https://www.nceo.ac.uk/"
+  },
+  {
+    "name": "UMD/GEOG",
+    "description": "Department of Geographical Sciences, University of Maryland",
+    "url": "https://geog.umd.edu/"
+  },
+  {
+    "name": "UMD/GLAD",
+    "description": "University of Maryland Global Land Analysis & Discovery laboratory (GLAD)",
+    "url": "https://glad.umd.edu/"
+  },
+  {
+    "name": "USDA/FS/RMRS",
+    "description": "Rocky Mountain Research Station, Forest Service, U. S. Department of Agriculture",
+    "url": "http://www.fs.fed.us/rm/"
+  },
+  {
+    "name": "UTX-AUSTIN/CSR",
+    "description": "Center for Space Research, University of Texas at Austin",
+    "url": "http://www.csr.utexas.edu/"
+  }
+]
